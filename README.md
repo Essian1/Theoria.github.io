@@ -1,2 +1,1 @@
-# Theoria.github.io
 blog
